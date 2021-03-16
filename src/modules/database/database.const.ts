@@ -1,0 +1,1 @@
+export const MONGO_PAYMENT_CONNECTION_NAME = "payments";

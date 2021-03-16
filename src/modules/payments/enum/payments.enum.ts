@@ -1,0 +1,8 @@
+export enum ORDER_CURRENCY {
+  USD = "USD"
+}
+
+export enum PAYMENT_STATUS {
+  CONFIRMED = "CONFIRMED",
+  DECLINED = "DECLINED"
+}
